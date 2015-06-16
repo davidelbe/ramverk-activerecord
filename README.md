@@ -42,7 +42,7 @@ bundle exec rake -T
 
 db:create   # Create the database in the current environment
 db:drop     # Drop the database in the current environment
-db:generate # Create a migration (required: NAME, options: VERSION)
+db:generate # Create a migration (required: NAME, optional: VERSION)
 db:migrate  # Run pending migrations (optional: STEP)
 db:rollback # Perform rollback (optional: STEP)
 db:seed     # Load seeds file
