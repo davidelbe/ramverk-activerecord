@@ -1,4 +1,4 @@
-# Ramverk with Sequel
+# Ramverk with Active Record
 
 ### Usage
 ```ruby
