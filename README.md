@@ -3,7 +3,7 @@
 ### Usage
 ```ruby
 # Gemfile
-gem 'ramverk-activerecord', github: 'sandelius/ramverk-activerecord'
+gem 'ramverk-activerecord'
 gem 'pg' # or 'mysql2' or 'sqlite3' or ...
 ```
 
